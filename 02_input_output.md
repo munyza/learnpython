@@ -1,4 +1,5 @@
-# Example
+# Input and Output
+## Example
 ```python
     name = input("Enter your name")
     print("Hello", name)
@@ -6,7 +7,7 @@
     print(f"You are {age} years old.")
 
 ```
-# Explanation
+## Explanation
 - The **f** is used as a formatted string, and it means to evaluate any code inside {} and put it in there. 
 
 - The curly braces {} tell Python to replace what is inside with its value. 
@@ -30,7 +31,7 @@ print("Hello", name, "you are", age, "and live in", city)
 # With f-strings:
 print(f"Hello {name}, you are {age}, and live in {city}")
 ```
-## Formating Numbers 
+### Formating Numbers 
 ```python 
 pi = 3.14159
 print(f"Pi is{pi:.2f}")
