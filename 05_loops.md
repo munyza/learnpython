@@ -9,8 +9,9 @@
 ```python
 for i in range(1, 6):
     print(i)
-
+```
 ### while loop: count from 1 to 5
+```python
 x = 1
 while x <= 5:
     print(x)
