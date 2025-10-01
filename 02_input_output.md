@@ -1,3 +1,4 @@
+# Example
 ```python
     name = input("Enter your name")
     print("Hello", name)
@@ -19,9 +20,9 @@
 - It is also possible to just use commas rather than using f strings for simple projects, but for large ones it is better to use strings. 
 
 ```python 
-name = "Alice"
+name = "Munyza"
 age = 25
-city = "Paris"
+city = "London"
 
 # With commas:
 print("Hello", name, "you are", age, "and live in", city)
