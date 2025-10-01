@@ -2,7 +2,7 @@
 ```python
     name = input("Enter your name")
     print("Hello", name)
-    age = int(input("Enter your age: "))
+    age = int(input("Enter your age: ")) #use int before input for numbers 
     print(f"You are {age} years old.")
 
 ```
