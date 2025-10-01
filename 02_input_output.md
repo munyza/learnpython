@@ -29,3 +29,11 @@ print("Hello", name, "you are", age, "and live in", city)
 
 # With f-strings:
 print(f"Hello {name}, you are {age}, and live in {city}")
+```
+## Formating Numbers 
+```python 
+pi = 3.14159
+print(f"Pi is{pi:.2f}")
+```
+- **:** is used for formatting, the part after it tells Python how to format the value
+- .2f means within 2 decimal places 
